@@ -1,0 +1,6 @@
+pymupdf
+pytesseract
+transformers
+sentence-transformers
+torch
+pillow
